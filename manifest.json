@@ -1,0 +1,6 @@
+{
+  "name": "Calepino",
+  "description": "A Chrome extension to search for selected text on Priberam and Infopédia.",
+  "version": "1.0",
+  "manifest_version": 3
+}
