@@ -1,6 +1,6 @@
 # chrome-calepino (Calepino)
 
-A Chrome extension to search for selected text on [Priberam](https://dicionario.priberam.org/) and [Infopédia](https://www.infopedia.pt/).
+A Chrome extension to search for selected text on [Priberam](https://dicionario.priberam.org/) and [Infopédia](https://www.infopedia.pt/) (online Portuguese dictionaries).
 
 ## References
 
@@ -17,3 +17,5 @@ A Chrome extension to search for selected text on [Priberam](https://dicionario.
 ## Notes
 
 - `chrome://extensions/`.
+- [chrome.i18n.getMessage example for v3 manifest?](https://github.com/GoogleChrome/chrome-extensions-samples/issues/546) (open) issue.
+- To test translations (macOS): `System Preferences` > `Language & Region` > `Apps` > `Google Chrome` (add it if you don't have it on the list).
