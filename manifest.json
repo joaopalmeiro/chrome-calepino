@@ -1,6 +1,6 @@
 {
   "name": "Calepino",
-  "description": "A Chrome extension to search for selected text on Priberam and Infopédia.",
+  "description": "__MSG_extensionDescription__",
   "version": "1.0",
   "manifest_version": 3,
   "background": {
@@ -8,5 +8,6 @@
   },
   "permissions": [
     "contextMenus"
-  ]
+  ],
+  "default_locale": "en"
 }
